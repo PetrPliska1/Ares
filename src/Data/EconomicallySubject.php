@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace\Data;
+namespace Ares\Data;
 
 readonly class EconomicallySubject {
     public function __construct(

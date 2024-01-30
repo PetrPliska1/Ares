@@ -1,8 +1,8 @@
 <?php
 
-namespace YourNamespace\Collection;
+namespace Ares\Collection;
 
-use YourNamespace\ValidationObject\Ico;
+use Ares\ValidationObject\Ico;
 
 class IcoCollection
 {

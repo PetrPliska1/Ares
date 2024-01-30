@@ -1,18 +1,18 @@
 <?php
 
-namespace YourNamespace;
+namespace Ares;
 
 use Psr\Http\Client\ClientInterface;
 use Psr\Http\Message\RequestFactoryInterface;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\StreamFactoryInterface;
-use YourNamespace\Collection\EconomicallySubjectCollection;
-use YourNamespace\Collection\IcoCollection;
-use YourNamespace\Collection\OrderEnumCollection;
-use YourNamespace\Data\EconomicallySubject;
-use YourNamespace\ValidationObject\EconomicallySubjectName;
-use YourNamespace\ValidationObject\Ico;
-use YourNamespace\ValidationObject\SubjectsPerPage;
+use Ares\Collection\EconomicallySubjectCollection;
+use Ares\Collection\IcoCollection;
+use Ares\Collection\OrderEnumCollection;
+use Ares\Data\EconomicallySubject;
+use Ares\ValidationObject\EconomicallySubjectName;
+use Ares\ValidationObject\Ico;
+use Ares\ValidationObject\SubjectsPerPage;
 
 readonly class Ares
 {

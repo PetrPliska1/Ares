@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace\ValidationObject;
+namespace Ares\ValidationObject;
 
 use InvalidArgumentException;
 

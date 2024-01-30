@@ -1,6 +1,6 @@
 <?php
 
-namespace YourNamespace\Enum;
+namespace Ares\Enum;
 
 enum OrderEnum: string {
     case ICO = 'ico';

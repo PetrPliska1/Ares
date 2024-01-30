@@ -1,8 +1,8 @@
 <?php
 
-namespace YourNamespace\Collection;
+namespace Ares\Collection;
 
-use YourNamespace\Enum\OrderEnum;
+use Ares\Enum\OrderEnum;
 
 class OrderEnumCollection
 {

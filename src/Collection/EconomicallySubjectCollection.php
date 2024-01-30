@@ -1,13 +1,13 @@
 <?php
 
-namespace YourNamespace\Collection;
+namespace Ares\Collection;
 
 use ArrayAccess;
 use ArrayIterator;
 use Countable;
 use InvalidArgumentException;
 use IteratorAggregate;
-use YourNamespace\Data\EconomicallySubject;
+use Ares\Data\EconomicallySubject;
 
 class EconomicallySubjectCollection implements IteratorAggregate, Countable, ArrayAccess
 {
